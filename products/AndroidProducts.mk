@@ -44,4 +44,4 @@ COMMON_LUNCH_CHOICES += \
     aospa_panther-userdebug \
     aospa_phoenix-userdebug \
     aospa_raven-userdebug \
-    aospa_chime-userdeb
+    aospa_chime-userdebug
